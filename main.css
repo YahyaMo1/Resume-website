@@ -1,0 +1,47 @@
+body{
+    background-color: aquamarine;
+ }
+ .title, h2{
+     color:black;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-style: italic;
+ }
+ p,li {
+     font-size: large;
+     font-variant: initial;
+     font-style: italic;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .header {
+     display: flex;
+     flex-direction: column;
+     /* justify-content: space-around; */
+     align-items: center;
+     margin-top: 30px;
+     margin-left: 20px;
+     margin-right: 20px;
+ }
+ 
+ .intro{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin-left: 20px;
+     margin-right: 20px;
+ }
+ 
+ .proffesional{  display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin-left: 20px;
+     margin-right: 20px;
+ }
+ 
+ .tanjiro{
+     max-height: 400px;
+     max-width: 350px;
+ }
+ /* 
+ #title2{
+     color: brown;
+ } */
